@@ -25,4 +25,4 @@ Other details like location and online platforms to communicate with us
 ![end_page](https://user-images.githubusercontent.com/112117613/187357976-9cb9d5bf-28c1-4cdc-92a2-9349d02f5507.png)
 
 
-The link to the wesite is:
+The link to the wesite is:https://lively-mushroom-035f5f610.1.azurestaticapps.net/
